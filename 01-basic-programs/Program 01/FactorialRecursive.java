@@ -6,10 +6,20 @@
 import java.util.*;
 
 public class FactorialRecursive {
+    int factorial(int n){
+        if(n==1){
+            return 1;
+        }else{
+            return n * factorial(n-1);
+        }
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // TODO: Implement solution
+        int n = sc.nextInt();
         
+        FactorialRecursive fr = new FactorialRecursive();
+        int result = fr.factorial(n);
+        System.out.println("Factorial = "+result);
         sc.close();
     }
 }
