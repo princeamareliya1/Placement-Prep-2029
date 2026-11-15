@@ -8,7 +8,13 @@ import java.util.*;
 public class OddEvenWithoutModulo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // TODO: Implement solution
+        System.out.print("Enter a Number: ");
+        int n = sc.nextInt();
+        if((n&1)==0){
+            System.out.println(n + " is even number");
+        }else{
+            System.out.println(n + " is odd number");
+        }
         
         sc.close();
     }

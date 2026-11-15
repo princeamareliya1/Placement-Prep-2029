@@ -8,8 +8,15 @@ import java.util.*;
 public class DigitSumIterative {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // TODO: Implement solution
-        
+        System.out.print("Enter a Number: ");
+        int n = sc.nextInt();
+        int sum = 0,a;
+        while(n!=0){
+            a = n%10;
+            sum += a;
+            n /= 10;
+        }
+        System.out.println("Sum of digit = "+sum);
         sc.close();
     }
 }
