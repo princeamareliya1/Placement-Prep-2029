@@ -1,85 +1,119 @@
-# Placement & Lab Evaluation Preparation 🎯
+# Placement & Lab Evaluation Preparation (Batch 2029) 🎯
 
-A curated, systematic repository prepared for college lab evaluations, technical entrance assessments, and company placement coding rounds.
+<p align="center">
+  <img src="https://img.shields.io/badge/Batch-2029-blue?style=for-the-badge&logo=target" alt="Batch 2029" />
+  <img src="https://img.shields.io/badge/Total%20Problems-167-success?style=for-the-badge" alt="Problems Count" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Target-Reopening%20Evaluation%20Test-red?style=for-the-badge" alt="Target" />
+</p>
 
-> **Test Date**: Reopening Day (Dec 5–7)  
-> **Strategy**: 20 Days × 3–4 Hours Daily  
-> **Evaluation Impact**: Strict determination of Semester Lab Batches & Divisions
+A structured, comprehensive problem collection and progress tracker for semester lab evaluation tests, technical interview rounds, and campus placement drives.
 
 ---
 
-## 📊 Summary of Syllabus (Extracted from 3 Official PDFs)
+## 📌 Context & Motivation
 
-| Phase | Module | Total Questions | Topics Covered |
-| :--- | :--- | :---: | :--- |
-| **Phase 1** | `01-basic-programs/` | **61** | Conditionals, Bitwise, Number Systems, Patterns, 11 Sorting Algorithms, Strings |
-| **Phase 2** | `02-company-asked/` | **69** | Interview rounds (Dominant No., Sqrt, Kadane's, Trapping Rainwater, Time OOP) |
-| **Phase 3** | `03-dsa-problems/` | **37** | Linked Lists, Stacks, Queues, BST, BFS/DFS, Dijkstra, Kruskal/Prim, DP & LRU Cache |
+- **Assessment Target**: Programming evaluation test conducted on semester reopening day (Dec 5–7).
+- **Academic Impact**: Determines student divisions and dedicated lab batches.
+- **Preparation Schedule**: 20 Days dedicated daily practice plan (3–4 hours/day).
+- **Scope**: 167 total curated problems ranging from basic programming to core DSA and company-specific interview challenges.
+
+---
+
+## 📊 Syllabus & Problem Breakdown
+
+| Phase | Directory | Total Questions | Topics & Focus Areas |
+| :---: | :--- | :---: | :--- |
+| **Phase 1** | [`01-basic-programs/`](./01-basic-programs/) | **61** | Mathematical logic, Number systems, Bitwise operations, Patterns, 11 Sorting algorithms, and String parsing. |
+| **Phase 2** | [`02-company-asked/`](./02-company-asked/) | **69** | Real technical interview questions (TCS, Infosys, Wipro, product rounds), Array puzzles, String manipulation, and OOP class design. |
+| **Phase 3** | [`03-dsa-problems/`](./03-dsa-problems/) | **37** | Linked Lists, Stacks & Queues, BSTs, Graph Traversals (BFS/DFS), Shortest Path & MST, Dynamic Programming, and LRU Cache. |
 | **Total** | | **167 Problems** | |
 
 ---
 
-## 🗂️ Complete Directory Structure
+## 🗂️ Repository Architecture
 
 ```text
 Placement-Prep-2029/
 ├── README.md                                  # Master roadmap and overview
-├── .gitignore                                 # Excludes build binaries, caches, and audio files
+├── .gitignore                                 # Excludes build binaries, caches, and temporary files
 │
 ├── 01-basic-programs/                         # (61 Questions)
-│   ├── README.md                              # Full list of Q1 - Q61 with checkboxes
-│   ├── 01-logic-and-conditionals/             # Q1 to Q15 (Armstrong, Ugly, Kaprekar, Automorphic)
-│   ├── 02-number-systems-and-bits/            # Q16 to Q23 (BCD, Bin-Hex-Oct conversions, Hamming distance)
-│   ├── 03-patterns/                           # Q24 to Q29 (Spiral matrix, Pyramids, Hollow diamond)
-│   ├── 04-arrays-and-sorting/                 # Q30 to Q53 (All 11 Sorting Algos, Matrix, Pair Sum)
-│   └── 05-strings-and-parsing/                # Q54 to Q61 (Anagrams, Palindrome, Lexicographical order)
+│   ├── README.md                              # Detailed index of Q1 - Q61
+│   ├── 01-logic-and-conditionals/             # Armstrong, Ugly, Kaprekar, Automorphic numbers, Loops
+│   ├── 02-number-systems-and-bits/            # BCD, Hex-Oct-Bin conversions, Bitwise distance
+│   ├── 03-patterns/                           # Concentric number matrix, Pyramid, Star patterns
+│   ├── 04-arrays-and-sorting/                 # All 11 Sorting Algos, In-place rotations, Pair sum
+│   └── 05-strings-and-parsing/                # Palindromes, Lexicographic permutations, Anagrams
 │
 ├── 02-company-asked/                          # (69 Questions)
-│   ├── README.md                              # Full list of Q1 - Q69 with checkboxes
-│   ├── 01-arrays-and-math/                    # Dominant number, Kadane, Buy & Sell Stock, Rotations
-│   ├── 02-strings-and-patterns/               # Substrings, myAtoi, Balanced Brackets, English Words
+│   ├── README.md                              # Detailed index of Q1 - Q69
+│   ├── 01-arrays-and-math/                    # Dominant numbers, Kadane's algorithm, Stock profit
+│   ├── 02-strings-and-patterns/               # Substrings, myAtoi, Balanced brackets, Words conversion
 │   ├── 03-dynamic-programming-and-greedy/     # Jump Game, Coin Change, Rainwater trapping
-│   └── 04-classes-and-design/                 # Time class (Add/Subtract seconds), Calculator, Key-Value Map
+│   └── 04-classes-and-design/                 # Custom Time class, Calculator, Key-Value store
 │
 ├── 03-dsa-problems/                           # (37 Questions)
-│   ├── README.md                              # Full list of Q1 - Q37 with checkboxes
-│   ├── 01-linked-lists/                       # Q1 to Q4 (Sorted insertion, Demerge Doubly LL, Add 2 numbers)
-│   ├── 02-stacks-and-queues/                  # Q5 to Q9 (Prefix/Postfix, Stack by Queue, Expression eval)
-│   ├── 03-trees-and-bst/                      # Q10 to Q17 (Leaf nodes, BST Mode, Invert tree, Tree from traversals)
-│   ├── 04-greedy-and-graphs/                  # Q18 to Q27 (BFS, DFS, Dijkstra, Kruskal, Prim, Cycles)
-│   ├── 05-dynamic-programming/                # Q28 to Q35 (0/1 Knapsack, Climbing Stairs, Rainwater, Sliding Window)
-│   └── 06-advanced-design-and-interview/      # Q36 to Q37 (Army of Wizards, LRU Cache implementation)
+│   ├── README.md                              # Detailed index of Q1 - Q37
+│   ├── 01-linked-lists/                       # Sorted insertions, Demerge Doubly LL, Add Two Numbers
+│   ├── 02-stacks-and-queues/                  # Prefix/Postfix evaluation, Monotonic Stack, Queue by Stack
+│   ├── 03-trees-and-bst/                      # BST modes, Invert tree, Tree from traversals
+│   ├── 04-greedy-and-graphs/                  # BFS, DFS, Dijkstra, Kruskal, Prim, Cycle detection
+│   ├── 05-dynamic-programming/                # 0/1 Knapsack, Climbing stairs, Sliding window maximum
+│   └── 06-advanced-design-and-interview/      # Army of wizards, LRU Cache implementation
 │
 └── resources/
-    └── references/
-        ├── BasicProgramList.pdf               # Original Basic PDF
-        ├── CompanyAskedPrograms.pdf           # Original Company PDF
-        └── DSAProblems.pdf                    # Original DSA PDF
+    └── references/                            # Original question bank PDFs
+        ├── BasicProgramList.pdf
+        ├── CompanyAskedPrograms.pdf
+        └── DSAProblems.pdf
 ```
 
 ---
 
-## 📅 Recommended 20-Day Study Plan
+## 📅 Suggested 20-Day Study Plan
 
-- **Days 1 – 6 (Phase 1: Basic Programs)**:
-  - Solve ~10 questions/day. Master all 11 sorting algorithms and number system conversions.
-- **Days 7 – 14 (Phase 2: Company-Asked Problems)**:
-  - Solve ~8–9 questions/day. Focus on string parsing, math challenges, and OOP class design.
-- **Days 15 – 20 (Phase 3: DSA Problems)**:
-  - Solve ~6 questions/day. Master BST operations, Graph traversals (BFS/DFS/MST), and Dynamic Programming.
+```text
+┌───────────────────────┬──────────────────────┬──────────────────────┐
+│  Phase 1 (Day 1 - 6)  │ Phase 2 (Day 7 - 14) │ Phase 3 (Day 15 - 20)│
+├───────────────────────┼──────────────────────┼──────────────────────┤
+│  Basic & Sorting      │ Company Problems     │ Data Structures & DP │
+│  ~10 Questions/Day    │ ~8-9 Questions/Day   │ ~6 Questions/Day     │
+│  Goal: 61 Solved      │ Goal: 69 Solved      │ Goal: 37 Solved      │
+└───────────────────────┴──────────────────────┴──────────────────────┘
+```
 
 ---
 
-## 🛠️ GitHub Publishing Instructions
+## 💡 Solution Template (Convention)
 
-Run the following commands in terminal:
+To keep code clean and interview-ready, structure each solution file as follows:
 
-```bash
-cd "C:\Profile\Name\PRINCE\CODING\Placement-Prep-2029"
-git init
-git add .
-git commit -m "Initial commit: Complete Placement & Lab Evaluation Prep with 167 Questions"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git push -u origin main
+```cpp
+/**
+ * Problem: <Problem Title>
+ * Category: <Array / String / Tree / DP>
+ * Source: <Phase Folder / Question Number>
+ * 
+ * Approach:
+ * - <Brief explanation of your approach>
+ * 
+ * Complexity:
+ * - Time Complexity: O(...)
+ * - Space Complexity: O(...)
+ */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Solution code
+    return 0;
+}
 ```
+
+---
+
+## 👤 Author
+- **Prince Amareliya** ([@princeamareliya1](https://github.com/princeamareliya1))
+- **Batch**: 2029
