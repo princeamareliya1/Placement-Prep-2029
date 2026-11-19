@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Batch-2029-blue?style=for-the-badge&logo=target" alt="Batch 2029" />
-  <img src="https://img.shields.io/badge/Total%20Problems-167-success?style=for-the-badge" alt="Problems Count" />
+  <img src="https://img.shields.io/badge/Total%20Problems-167-informational?style=for-the-badge" alt="Problems Count" />
+  <img src="https://img.shields.io/badge/Solved-16%2F167-success?style=for-the-badge" alt="Solved Count" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Target-Reopening%20Evaluation%20Test-red?style=for-the-badge" alt="Target" />
 </p>
@@ -39,12 +40,9 @@ Placement-Prep-2029/
 ├── .gitignore                                 # Excludes build binaries, caches, and temporary files
 │
 ├── 01-basic-programs/                         # (61 Questions)
-│   ├── README.md                              # Detailed index of Q1 - Q61
-│   ├── 01-logic-and-conditionals/             # Armstrong, Ugly, Kaprekar, Automorphic numbers, Loops
-│   ├── 02-number-systems-and-bits/            # BCD, Hex-Oct-Bin conversions, Bitwise distance
-│   ├── 03-patterns/                           # Concentric number matrix, Pyramid, Star patterns
-│   ├── 04-arrays-and-sorting/                 # All 11 Sorting Algos, In-place rotations, Pair sum
-│   └── 05-strings-and-parsing/                # Palindromes, Lexicographic permutations, Anagrams
+│   ├── README.md                              # Detailed index of Q1 - Q61 with status
+│   ├── Program 01/ ... Program 16/            # Solved programs (.java)
+│   └── Program 17/ ... Program 61/            # Starter templates (.java)
 │
 ├── 02-company-asked/                          # (69 Questions)
 │   ├── README.md                              # Detailed index of Q1 - Q69
@@ -89,7 +87,7 @@ Placement-Prep-2029/
 
 To keep code clean and interview-ready, structure each solution file as follows:
 
-```cpp
+```java
 /**
  * Problem: <Problem Title>
  * Category: <Array / String / Tree / DP>
@@ -103,12 +101,14 @@ To keep code clean and interview-ready, structure each solution file as follows:
  * - Space Complexity: O(...)
  */
 
-#include <iostream>
-using namespace std;
+import java.util.*;
 
-int main() {
-    // Solution code
-    return 0;
+public class Solution {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        // Solution code
+        sc.close();
+    }
 }
 ```
 
