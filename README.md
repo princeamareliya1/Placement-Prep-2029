@@ -12,15 +12,6 @@ A structured, comprehensive problem collection and progress tracker for semester
 
 ---
 
-## 📌 Context & Motivation
-
-- **Assessment Target**: Programming evaluation test conducted on semester reopening day (Dec 5–7).
-- **Academic Impact**: Determines student divisions and dedicated lab batches.
-- **Preparation Schedule**: 20 Days dedicated daily practice plan (3–4 hours/day).
-- **Scope**: 167 total curated problems ranging from basic programming to core DSA and company-specific interview challenges.
-
----
-
 ## 📊 Syllabus & Problem Breakdown
 
 | Phase | Directory | Total Questions | Topics & Focus Areas |
@@ -68,18 +59,6 @@ Placement-Prep-2029/
 ```
 
 ---
-
-## 📅 Suggested 20-Day Study Plan
-
-```text
-┌───────────────────────┬──────────────────────┬──────────────────────┐
-│  Phase 1 (Day 1 - 6)  │ Phase 2 (Day 7 - 14) │ Phase 3 (Day 15 - 20)│
-├───────────────────────┼──────────────────────┼──────────────────────┤
-│  Basic & Sorting      │ Company Problems     │ Data Structures & DP │
-│  ~10 Questions/Day    │ ~8-9 Questions/Day   │ ~6 Questions/Day     │
-│  Goal: 61 Solved      │ Goal: 69 Solved      │ Goal: 37 Solved      │
-└───────────────────────┴──────────────────────┴──────────────────────┘
-```
 
 ---
 
