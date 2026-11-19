@@ -11,15 +11,6 @@ A structured, comprehensive problem collection and progress tracker for semester
 
 ---
 
-## 📌 Context & Motivation
-
-- **Assessment Target**: Programming evaluation test conducted on semester reopening day (Dec 5–7).
-- **Academic Impact**: Determines student divisions and dedicated lab batches.
-- **Preparation Schedule**: 20 Days dedicated daily practice plan (3–4 hours/day).
-- **Scope**: 167 total curated problems ranging from basic programming to core DSA and company-specific interview challenges.
-
----
-
 ## 📊 Syllabus & Problem Breakdown
 
 | Phase | Directory | Total Questions | Topics & Focus Areas |
