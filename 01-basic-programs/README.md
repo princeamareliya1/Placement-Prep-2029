@@ -6,7 +6,7 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 
 ---
 
-## 📊 Phase Progress: 16 / 61 Solved
+## 📊 Phase Progress: 18 / 61 Solved
 
 ## 📋 Complete Program Index & Structure
 
@@ -28,8 +28,8 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 | [**Program 14**](./Program%2014/) | Pronic number check ($N = k \times (k+1)$) | `PronicNumber.java` | ✅ Solved |
 | [**Program 15**](./Program%2015/) | Chocolate wrapper exchange offer scenario | `ChocolateWrapperOffer.java` | ✅ Solved |
 | [**Program 16**](./Program%2016/) | Decimal to BCD conversion | `DecimalToBCD.java` | ✅ Solved |
-| [**Program 17**](./Program%2017/) | Binary to Decimal conversion | `BinaryToDecimal.java` | ⏳ Pending |
-| [**Program 18**](./Program%2018/) | Octal to Hexadecimal conversion | `OctalToHexadecimal.java` | ⏳ Pending |
+| [**Program 17**](./Program%2017/) | Binary to Decimal conversion | `BinaryToDecimal.java` | ✅ Solved |
+| [**Program 18**](./Program%2018/) | Octal to Hexadecimal conversion | `OctalToHexadecimal.java` | ✅ Solved |
 | [**Program 19**](./Program%2019/) | Hexadecimal to Octal conversion | `HexadecimalToOctal.java` | ⏳ Pending |
 | [**Program 20**](./Program%2020/) | Decimal to Octal and Vice-versa | `DecimalToOctal.java`<br>`OctalToDecimal.java` | ⏳ Pending |
 | [**Program 21**](./Program%2021/) | Decimal to Hexadecimal and Vice-versa | `DecimalToHexadecimal.java`<br>`HexadecimalToDecimal.java` | ⏳ Pending |
