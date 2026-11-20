@@ -35,6 +35,7 @@ public class OctalToHexadecimal {
             qu /= 16;
         }
 
+        octn = temp;
         System.out.println(octn+" = "+hexa);
         
         sc.close();
