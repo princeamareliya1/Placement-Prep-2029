@@ -6,7 +6,7 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 
 ---
 
-## 📊 Phase Progress: 18 / 61 Solved
+## 📊 Phase Progress: 20 / 61 Solved
 
 ## 📋 Complete Program Index & Structure
 
@@ -30,8 +30,8 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 | [**Program 16**](./Program%2016/) | Decimal to BCD conversion | `DecimalToBCD.java` | ✅ Solved |
 | [**Program 17**](./Program%2017/) | Binary to Decimal conversion | `BinaryToDecimal.java` | ✅ Solved |
 | [**Program 18**](./Program%2018/) | Octal to Hexadecimal conversion | `OctalToHexadecimal.java` | ✅ Solved |
-| [**Program 19**](./Program%2019/) | Hexadecimal to Octal conversion | `HexadecimalToOctal.java` | ⏳ Pending |
-| [**Program 20**](./Program%2020/) | Decimal to Octal and Vice-versa | `DecimalToOctal.java`<br>`OctalToDecimal.java` | ⏳ Pending |
+| [**Program 19**](./Program%2019/) | Hexadecimal to Octal conversion | `HexadecimalToOctal.java` | ✅ Solved |
+| [**Program 20**](./Program%2020/) | Decimal to Octal and Vice-versa | `DecimalToOctal.java`<br>`OctalToDecimal.java` | ✅ Solved |
 | [**Program 21**](./Program%2021/) | Decimal to Hexadecimal and Vice-versa | `DecimalToHexadecimal.java`<br>`HexadecimalToDecimal.java` | ⏳ Pending |
 | [**Program 22**](./Program%2022/) | Bit Distance / Hamming Distance between 2 numbers | `BitDistance.java` | ⏳ Pending |
 | [**Program 23**](./Program%2023/) | $N$-th digit of infinite integer sequence `[1,2,3...]` | `NthDigitInfiniteSequence.java` | ⏳ Pending |
