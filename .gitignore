@@ -32,3 +32,9 @@ Desktop.ini
 *.wav
 *.mp3
 *.tmp
+
+# Local Java Notes & References (Private)
+JAVA_QUICK_REFERENCE.md
+Java_Quick_Reference.html
+Java_Quick_Reference.pptx
+*.pptx

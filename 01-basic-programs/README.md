@@ -6,7 +6,7 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 
 ---
 
-## 📊 Phase Progress: 20 / 61 Solved
+## 📊 Phase Progress: 23 / 61 Solved
 
 ## 📋 Complete Program Index & Structure
 
@@ -32,9 +32,9 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 | [**Program 18**](./Program%2018/) | Octal to Hexadecimal conversion | `OctalToHexadecimal.java` | ✅ Solved |
 | [**Program 19**](./Program%2019/) | Hexadecimal to Octal conversion | `HexadecimalToOctal.java` | ✅ Solved |
 | [**Program 20**](./Program%2020/) | Decimal to Octal and Vice-versa | `DecimalToOctal.java`<br>`OctalToDecimal.java` | ✅ Solved |
-| [**Program 21**](./Program%2021/) | Decimal to Hexadecimal and Vice-versa | `DecimalToHexadecimal.java`<br>`HexadecimalToDecimal.java` | ⏳ Pending |
-| [**Program 22**](./Program%2022/) | Bit Distance / Hamming Distance between 2 numbers | `BitDistance.java` | ⏳ Pending |
-| [**Program 23**](./Program%2023/) | $N$-th digit of infinite integer sequence `[1,2,3...]` | `NthDigitInfiniteSequence.java` | ⏳ Pending |
+| [**Program 21**](./Program%2021/) | Decimal to Hexadecimal and Vice-versa | `DecimalToHexadecimal.java`<br>`HexadecimalToDecimal.java` | ✅ Solved |
+| [**Program 22**](./Program%2022/) | Bit Distance / Hamming Distance between 2 numbers | `BitDistance.java` | ✅ Solved |
+| [**Program 23**](./Program%2023/) | $N$-th digit of infinite integer sequence `[1,2,3...]` | `NthDigitInfiniteSequence.java` | ✅ Solved |
 | [**Program 24**](./Program%2024/) | Pattern 1: Right triangle numbers | `PatternRightTriangle.java` | ⏳ Pending |
 | [**Program 25**](./Program%2025/) | Pattern 2: Inverted star pyramid | `PatternInvertedStarPyramid.java` | ⏳ Pending |
 | [**Program 26**](./Program%2026/) | Pattern 3: Hollow star boundary | `PatternHollowStarBoundary.java` | ⏳ Pending |
