@@ -8,8 +8,21 @@ import java.util.*;
 public class NthDigitInfiniteSequence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // TODO: Implement solution
         
+        System.out.print("Enter a Number: ");
+        int n = sc.nextInt();
+
+        String str = "";
+        int i=1;
+        do{
+            str = str + i;
+            i++;
+        }while(i<=n);
+
+        str = str.substring(0, n);
+
+        System.out.println(str);
+
         sc.close();
     }
 }
