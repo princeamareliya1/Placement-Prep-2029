@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Batch-2029-blue?style=for-the-badge&logo=target" alt="Batch 2029" />
   <img src="https://img.shields.io/badge/Total%20Problems-167-informational?style=for-the-badge" alt="Problems Count" />
-  <img src="https://img.shields.io/badge/Solved-23%2F167-success?style=for-the-badge" alt="Solved Count" />
+  <img src="https://img.shields.io/badge/Solved-30%2F167-success?style=for-the-badge" alt="Solved Count" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Target-Reopening%20Evaluation%20Test-red?style=for-the-badge" alt="Target" />
 </p>
@@ -32,8 +32,8 @@ Placement-Prep-2029/
 │
 ├── 01-basic-programs/                         # (61 Questions)
 │   ├── README.md                              # Detailed index of Q1 - Q61 with status
-│   ├── Program 01/ ... Program 23/            # Solved programs (.java)
-│   └── Program 24/ ... Program 61/            # Starter templates (.java)
+│   ├── Program 01/ ... Program 30/            # Solved programs (.java)
+│   └── Program 31/ ... Program 61/            # Starter templates (.java)
 │
 ├── 02-company-asked/                          # (69 Questions)
 │   ├── README.md                              # Detailed index of Q1 - Q69

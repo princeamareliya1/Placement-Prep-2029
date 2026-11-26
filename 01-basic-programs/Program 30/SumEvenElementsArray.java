@@ -8,8 +8,24 @@ import java.util.*;
 public class SumEvenElementsArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // TODO: Implement solution
         
+        System.out.print("Enter a Size of Array: ");
+        int size = sc.nextInt();
+        int[] arr = new int[size];
+
+        for(int i=0;i<size;i++){
+            System.out.print("Enter a number of index ["+(i+1)+"]: ");
+            arr[i] = sc.nextInt();
+        }
+        
+        int sum=0;
+
+        for(int i=0;i<size;i++){
+            if(arr[i]%2==0){
+                sum += arr[i];
+            }
+        }
+        System.out.print("Sum = "+sum);
         sc.close();
     }
 }

@@ -6,7 +6,7 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 
 ---
 
-## 📊 Phase Progress: 23 / 61 Solved
+## 📊 Phase Progress: 30 / 61 Solved
 
 ## 📋 Complete Program Index & Structure
 
@@ -35,13 +35,13 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 | [**Program 21**](./Program%2021/) | Decimal to Hexadecimal and Vice-versa | `DecimalToHexadecimal.java`<br>`HexadecimalToDecimal.java` | ✅ Solved |
 | [**Program 22**](./Program%2022/) | Bit Distance / Hamming Distance between 2 numbers | `BitDistance.java` | ✅ Solved |
 | [**Program 23**](./Program%2023/) | $N$-th digit of infinite integer sequence `[1,2,3...]` | `NthDigitInfiniteSequence.java` | ✅ Solved |
-| [**Program 24**](./Program%2024/) | Pattern 1: Right triangle numbers | `PatternRightTriangle.java` | ⏳ Pending |
-| [**Program 25**](./Program%2025/) | Pattern 2: Inverted star pyramid | `PatternInvertedStarPyramid.java` | ⏳ Pending |
-| [**Program 26**](./Program%2026/) | Pattern 3: Hollow star boundary | `PatternHollowStarBoundary.java` | ⏳ Pending |
-| [**Program 27**](./Program%2027/) | Pattern 4: Concentric square number pattern ($4\ 4\ 4\dots 1$) | `PatternConcentricNumberSquare.java` | ⏳ Pending |
-| [**Program 28**](./Program%2028/) | Pattern 5: Symmetric asterisk product (`1 * 3 * 5 * 3 * 1`) | `PatternAsteriskSymmetric.java` | ⏳ Pending |
-| [**Program 29**](./Program%2029/) | Pattern 6: Star bowtie / hourglass boundary | `PatternHourglassBowtie.java` | ⏳ Pending |
-| [**Program 30**](./Program%2030/) | Sum of even numbers in 1D array | `SumEvenElementsArray.java` | ⏳ Pending |
+| [**Program 24**](./Program%2024/) | Pattern 1: Right triangle numbers | `PatternRightTriangle.java` | ✅ Solved |
+| [**Program 25**](./Program%2025/) | Pattern 2: Inverted star pyramid | `PatternInvertedStarPyramid.java` | ✅ Solved |
+| [**Program 26**](./Program%2026/) | Pattern 3: Hollow star boundary | `PatternHollowStarBoundary.java` | ✅ Solved |
+| [**Program 27**](./Program%2027/) | Pattern 4: Concentric square number pattern ($4\ 4\ 4\dots 1$) | `PatternConcentricNumberSquare.java` | ✅ Solved |
+| [**Program 28**](./Program%2028/) | Pattern 5: Symmetric asterisk product (`1 * 3 * 5 * 3 * 1`) | `PatternAsteriskSymmetric.java` | ✅ Solved |
+| [**Program 29**](./Program%2029/) | Pattern 6: Star bowtie / hourglass boundary | `PatternHourglassBowtie.java` | ✅ Solved |
+| [**Program 30**](./Program%2030/) | Sum of even numbers in 1D array | `SumEvenElementsArray.java` | ✅ Solved |
 | [**Program 31**](./Program%2031/) | Insert element at specific position in-place | `InsertElementInPlace.java` | ⏳ Pending |
 | [**Program 32**](./Program%2032/) | Delete element from array in-place | `DeleteElementInPlace.java` | ⏳ Pending |
 | [**Program 33**](./Program%2033/) | Search in array using recursion (`isInArray`) | `IsInArrayRecursion.java` | ⏳ Pending |
