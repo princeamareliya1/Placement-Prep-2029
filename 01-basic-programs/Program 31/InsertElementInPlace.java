@@ -22,11 +22,10 @@ public class InsertElementInPlace {
         System.out.print("Enter position where insert: ");
         int position = sc.nextInt();
         position--;
-        
+
         System.out.print("Enter a no which insert: ");
         int insert = sc.nextInt();
 
-        int temp;
         for(int i=size-1;i>=position;i--){
             arr[i+1] = arr[i];
         }
