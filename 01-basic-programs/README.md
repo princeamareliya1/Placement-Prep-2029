@@ -6,7 +6,7 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 
 ---
 
-## 📊 Phase Progress: 30 / 61 Solved
+## 📊 Phase Progress: 34 / 61 Solved
 
 ## 📋 Complete Program Index & Structure
 
@@ -42,10 +42,10 @@ Directly indexed from `resources/references/BasicProgramList.pdf`. Every problem
 | [**Program 28**](./Program%2028/) | Pattern 5: Symmetric asterisk product (`1 * 3 * 5 * 3 * 1`) | `PatternAsteriskSymmetric.java` | ✅ Solved |
 | [**Program 29**](./Program%2029/) | Pattern 6: Star bowtie / hourglass boundary | `PatternHourglassBowtie.java` | ✅ Solved |
 | [**Program 30**](./Program%2030/) | Sum of even numbers in 1D array | `SumEvenElementsArray.java` | ✅ Solved |
-| [**Program 31**](./Program%2031/) | Insert element at specific position in-place | `InsertElementInPlace.java` | ⏳ Pending |
-| [**Program 32**](./Program%2032/) | Delete element from array in-place | `DeleteElementInPlace.java` | ⏳ Pending |
-| [**Program 33**](./Program%2033/) | Search in array using recursion (`isInArray`) | `IsInArrayRecursion.java` | ⏳ Pending |
-| [**Program 34**](./Program%2034/) | Remove duplicates from sorted array | `RemoveDuplicatesSortedArray.java` | ⏳ Pending |
+| [**Program 31**](./Program%2031/) | Insert element at specific position in-place | `InsertElementInPlace.java` | ✅ Solved |
+| [**Program 32**](./Program%2032/) | Delete element from array in-place | `DeleteElementInPlace.java` | ✅ Solved |
+| [**Program 33**](./Program%2033/) | Search in array using recursion (`isInArray`) | `IsInArrayRecursion.java` | ✅ Solved |
+| [**Program 34**](./Program%2034/) | Remove duplicates from sorted array | `RemoveDuplicatesSortedArray.java` | ✅ Solved |
 | [**Program 35**](./Program%2035/) | Rotate array to right by $k$ steps | `RotateArrayRightKSteps.java` | ⏳ Pending |
 | [**Program 36**](./Program%2036/) | Rearrange digits to minimize value without leading zeros | `MinimizeNumberRearrangeDigits.java` | ⏳ Pending |
 | [**Program 37**](./Program%2037/) | Number of pairs with sum equal to $K$ | `PairSumCount.java` | ⏳ Pending |
